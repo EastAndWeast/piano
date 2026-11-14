@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.wrangler/
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+.openai/
+*.tar.gz
