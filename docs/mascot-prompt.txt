@@ -1,0 +1,6 @@
+Tool: built-in image_gen; transparent_background=true.
+Reference: approved concept A-music-garden.png.
+
+Create a production-ready transparent-background website mascot illustration. Use the reference only for the character visual style: warm cream smiling grand-piano with blushing cheeks, rounded stubby legs and little waving arms, charming polished 3D clay cartoon, two floating coral and yellow smiling music notes, tiny mint leaves and a small buttery-yellow sun. Isolated cluster arranged as a pleasant airy horizontal composition. Match the piano character in the provided approved homepage concept. NO website UI, NO text, NO lettering, NO frames, NO large scenery, NO background. Clean genuinely transparent alpha around all elements, soft subtle contact shading only below the piano. Friendly for adults and hobby learners, high quality soft tactile material. Subject fills central 85 percent, enough room for cropping. This is a reusable decorative homepage asset, not a full mockup.
+
+Output used without cropping: dist/assets/piano-friend.png
