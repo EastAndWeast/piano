@@ -1,0 +1,6 @@
+Tool: built-in image_gen, transparent background.
+Reference: approved qinshi-logo-v3-sprout.png.
+
+Export the existing icon from this approved 琴始 logo as a square icon-only image for use as a favicon and app icon. Preserve the exact sprouting musical note from the LEFT of the reference: two mint leaves, forest-green musical stem, coral oval notehead containing the cream piano-key detail. Keep the shapes, outline proportions, palette, visual identity, and flat warm finish as close to the reference as possible. Remove ALL Chinese text and lettering. Center just the existing symbol on a genuinely transparent square canvas with 7 percent clear padding. No new elements, no scene, no wordmark, no frame. Crisp silhouette that reads at 32 pixels.
+
+Web files are PNG size exports of the generated assets; the full wordmark is the original approved V3 design. Original design prompts remain in the workspace's design/logo/prompts-v2-v4.json.
